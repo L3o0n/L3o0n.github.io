@@ -1,0 +1,195 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="banquetes.com" resolutions="1x" timestamp="1678209605574">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="257904726" ref="contacto:pescado:sopas-y-cremas:postres:ensaladas:index:platillos:pollo:res"/>
+    <file name="contacto.css" crc="19921912" ref="contacto"/>
+    <file name="pescado.css" crc="362302999" ref="pescado"/>
+    <file name="sopas-y-cremas.css" crc="54437097" ref="sopas-y-cremas"/>
+    <file name="postres.css" crc="4172567221" ref="postres"/>
+    <file name="ensaladas.css" crc="434406311" ref="ensaladas"/>
+    <file name="index.css" crc="3789046292" ref="index"/>
+    <file name="platillos.css" crc="387158465" ref="platillos"/>
+    <file name="pollo.css" crc="307559413" ref="pollo"/>
+    <file name="res.css" crc="3957877766" ref="res"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="museutils.js" crc="3939489907" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contacto:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="require.js" crc="4177726516" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="form_check.php" crc="4108222811" ref="contacto"/>
+    <file name="form_throttle.php" crc="503802655" ref="contacto"/>
+    <file name="form_process.php" crc="260214869" ref="contacto"/>
+    <file name="form-u3134.php" crc="4054195017" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="banquetes-crop-u94.jpg" crc="3932462696" seo="true" ref="index:contacto:platillos:ensaladas:pescado:pollo:postres:res:sopas-y-cremas">
+      <caption webpage="pollo" alt=""/>
+      <caption webpage="contacto" alt=""/>
+      <caption webpage="ensaladas" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="platillos" alt=""/>
+      <caption webpage="sopas-y-cremas" alt=""/>
+      <caption webpage="postres" alt=""/>
+      <caption webpage="pescado" alt=""/>
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="2cat1.jpg" crc="4038902314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="cat2-crop-u859.jpg" crc="3948438026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cat3-crop-u879.jpg" crc="378723991" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cat8-crop-u899.jpg" crc="434780242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flan-crop-u919.jpg" crc="256672587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto07-crop-u939.jpg" crc="3762396693" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto14.jpg" crc="150926320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto16-crop-u979.jpg" crc="299139798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto19-crop-u999.jpg" crc="431862328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto20-crop-u1019.jpg" crc="3998377348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto24-crop-u1039.jpg" crc="3854989449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="producto29.jpg" crc="4081880124" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:ensaladas:pescado:pollo:postres:res:sopas-y-cremas"/>
+    <file name="cat8-crop-u1096.jpg" crc="4240369665" seo="true" ref="ensaladas">
+      <caption webpage="ensaladas" alt=""/>
+    </file>
+    <file name="producto04-crop-u1218.jpg" crc="3847997329" seo="true" ref="ensaladas">
+      <caption webpage="ensaladas" alt=""/>
+    </file>
+    <file name="producto26-crop-u1238.jpg" crc="527404594" seo="true" ref="ensaladas">
+      <caption webpage="ensaladas" alt=""/>
+    </file>
+    <file name="producto27-crop-u1258.jpg" crc="227265714" seo="true" ref="ensaladas">
+      <caption webpage="ensaladas" alt=""/>
+    </file>
+    <file name="producto29-crop-u1278.jpg" crc="3899137326" seo="true" ref="ensaladas">
+      <caption webpage="ensaladas" alt=""/>
+    </file>
+    <file name="cat4-crop-u1312.jpg" crc="144858462" seo="true" ref="pescado">
+      <caption webpage="pescado" alt=""/>
+    </file>
+    <file name="producto13-crop-u1434.jpg" crc="237772358" seo="true" ref="pescado">
+      <caption webpage="pescado" alt=""/>
+    </file>
+    <file name="producto14-crop-u1454.jpg" crc="333113012" seo="true" ref="pescado">
+      <caption webpage="pescado" alt=""/>
+    </file>
+    <file name="producto15-crop-u1474.jpg" crc="95612134" seo="true" ref="pescado">
+      <caption webpage="pescado" alt=""/>
+    </file>
+    <file name="producto16-crop-u1494.jpg" crc="4195492381" seo="true" ref="pescado">
+      <caption webpage="pescado" alt=""/>
+    </file>
+    <file name="2cat1-crop-u1528.jpg" crc="6991282" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="cat1-crop-u1657.jpg" crc="3957973200" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="producto01-crop-u1677.jpg" crc="323784691" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="producto02-crop-u1697.jpg" crc="452042541" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="producto06-crop-u1717.jpg" crc="472475610" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="producto07-crop-u1737.jpg" crc="315903901" seo="true" ref="pollo">
+      <caption webpage="pollo" alt=""/>
+    </file>
+    <file name="cat7-crop-u1771.jpg" crc="4029267453" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="flan-crop-u1900.jpg" crc="4223777399" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="flan2-crop-u1920.jpg" crc="3878296917" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="producto23-crop-u1940.jpg" crc="4041685360" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="producto24.jpg" crc="522709965" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="producto25-crop-u1980.jpg" crc="95380337" seo="true" ref="postres">
+      <caption webpage="postres" alt=""/>
+    </file>
+    <file name="cat2-crop-u2107.jpg" crc="4179897910" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="cat3-crop-u2243.jpg" crc="428600255" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="producto03-crop-u2263.jpg" crc="59093492" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="producto05-crop-u2283.jpg" crc="136809098" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="producto08-crop-u2303.jpg" crc="3844009155" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="producto09-crop-u2323.jpg" crc="463421972" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="producto10-crop-u2343.jpg" crc="258647821" seo="true" ref="res">
+      <caption webpage="res" alt=""/>
+    </file>
+    <file name="cat5-crop-u2377.jpg" crc="165273569" seo="true" ref="sopas-y-cremas">
+      <caption webpage="sopas-y-cremas" alt=""/>
+    </file>
+    <file name="producto17-crop-u2499.jpg" crc="306840205" seo="true" ref="sopas-y-cremas">
+      <caption webpage="sopas-y-cremas" alt=""/>
+    </file>
+    <file name="producto18-crop-u2519.jpg" crc="3931196669" seo="true" ref="sopas-y-cremas">
+      <caption webpage="sopas-y-cremas" alt=""/>
+    </file>
+    <file name="producto19-crop-u2539.jpg" crc="457636786" seo="true" ref="sopas-y-cremas">
+      <caption webpage="sopas-y-cremas" alt=""/>
+    </file>
+    <file name="producto20-crop-u2559.jpg" crc="3822971283" seo="true" ref="sopas-y-cremas">
+      <caption webpage="sopas-y-cremas" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3866821032" seo="true" mt="1677813995208" redirect="true"/>
+  <file name="contacto.html" crc="3862688345" seo="true" mt="1678209503557" redirect="true"/>
+  <file name="platillos.html" crc="49296142" seo="true" mt="1677813143444" redirect="true"/>
+  <file name="ensaladas.html" crc="3802015375" seo="true" mt="1677814122626" redirect="true"/>
+  <file name="pescado.html" crc="116754337" seo="true" mt="1677814697506" redirect="true"/>
+  <file name="pollo.html" crc="77929686" seo="true" mt="1677814892129" redirect="true"/>
+  <file name="postres.html" crc="4127143309" seo="true" mt="1677814999832" redirect="true"/>
+  <file name="res.html" crc="4187045819" seo="true" mt="1677815128610" redirect="true"/>
+  <file name="sopas-y-cremas.html" crc="28417828" seo="true" mt="1677815264126" redirect="true"/>
+</manifest>
